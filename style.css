@@ -8,8 +8,19 @@ img{
     max-width: 100%;
 }
 p{
-    font-size: 1.4rem;
+    font-size: 1.8rem;
 }
 h3{
-    font-size: 1.5rem;
+    font-size: 1.7rem;
+}
+a{
+    background-color: brown;
+    padding: 15px 6px;
+    text-decoration: none;
+    font-size: 1.6rem;
+    color: black;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: rgb(216, 87, 87);
 }
